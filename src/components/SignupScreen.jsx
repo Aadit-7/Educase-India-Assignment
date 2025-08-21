@@ -39,7 +39,7 @@ const SignupScreen = () => {
 
         {/* Inputs Section */}
         <div className="flex-1 flex flex-col justify-start pt-10 gap-5">
-          <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 pb-10 ">
+          <h1 className="text-xl sm:text-4xl font-bold text-gray-900 pb-10 ">
             Create your <br /> PopX account
           </h1>
           {/* Full Name */}
